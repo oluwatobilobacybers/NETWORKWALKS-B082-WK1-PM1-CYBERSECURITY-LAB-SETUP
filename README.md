@@ -93,7 +93,7 @@ Oracle VirtualBox 7.2.6 was installed and configured as the virtualization platf
 
 ### Evidence 1 — VirtualBox Installation
 
-![VirtualBox Installation](screenshots/01-VirtualBox-Installation.png)
+![VirtualBox Installation](screenshots/01-virtualbox-installed.png)
 
 ### Step 2 — Configure the Virtual Network
 
@@ -109,7 +109,7 @@ DNS:        8.8.8.8
 
 ### Evidence 2 — Virtual Network Configuration
 
-![Virtual Network Configuration](screenshots/02-Virtual-Network-Configuration.png)
+![Virtual Network Configuration](screenshots/02-virtual-network-configuration.png)
 
 
 ### Step 3 — Install Kali Linux
@@ -123,9 +123,9 @@ Kali Linux provides the operating environment for cybersecurity tools and ethica
 
 The Kali Linux virtual machine was extracted and successfully added to Oracle VirtualBox.
 
-![Extracting Kali Linux](screenshots/03a-Extracting-Kali-Linux.png)
+![Extracting Kali Linux](screenshots/03a-extracting-kali-linux.png)
 
-![Kali Linux in VirtualBox](screenshots/03b-Kali-Linux-in-VirtualBox.png)
+![Kali Linux in VirtualBox](screenshots/03b-kali-linux-in-virtualbox.png)
 
 ### Step 4 — Configure Kali Linux Networking
 
@@ -142,7 +142,7 @@ DNS:        8.8.8.8
 
 ### Evidence 4 — Kali Linux Network Configuration
 
-![Kali Linux Network Configuration](screenshots/04-Kali-Linux-Network-Configuration.png)
+![Kali Linux Network Configuration](screenshots/04-kali-linux-network-configuration.png)
 
 
 ## Verification Commands
