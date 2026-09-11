@@ -164,7 +164,7 @@ The snapshot provides a recovery point that can be used to restore the laborator
 
 ### Evidence 5 — Clean Virtual Machine Snapshot
 
-![Clean Virtual Machine Snapshot](screenshots/05-Clean-Virtual-Machine-Snapshot.png)
+![Clean Virtual Machine Snapshot](screenshots/05-clean-virtual-machine-snapshot.png)
 
 
 ## 🐞 Troubleshooting Experience
@@ -279,27 +279,27 @@ Security testing should never be performed against systems without explicit auth
 
 ### VirtualBox Installation
 
-![VirtualBox Installation](screenshots/01-VirtualBox-Installation.png)
+![VirtualBox Installation](screenshots/01-virtualBox-installation.png)
 
 ### Virtual Network Configuration
 
-![Virtual Network Configuration](screenshots/02-Virtual-Network-Configuration.png)
+![Virtual Network Configuration](screenshots/02-virtual-network-configuration.png)
 
 ### Kali Linux Installation
 
 The Kali Linux virtual machine was extracted and successfully added to Oracle VirtualBox.
 
-![Extracting Kali Linux](screenshots/03a-Extracting-Kali-Linux.png)
+![Extracting Kali Linux](screenshots/03a-extracting-kali-linux.png)
 
-![Kali Linux in VirtualBox](screenshots/03b-Kali-Linux-in-VirtualBox.png)
+![Kali Linux in VirtualBox](screenshots/03b-kali-linux-in-virtualbox.png)
 
 ### Kali Linux Network Configuration
 
-![Kali Linux Network Configuration](screenshots/04-Kali-Linux-Network-Configuration.png)
+![Kali Linux Network Configuration](screenshots/04-kali-linux-network-configuration.png)
 
 ### Clean Virtual Machine Snapshot
 
-![Clean Virtual Machine Snapshot](screenshots/05-Clean-Virtual-Machine-Snapshot.png)
+![Clean Virtual Machine Snapshot](screenshots/05-clean-virtual-machine-snapshot.png)
 
 ### Interface Shutdown
 
@@ -320,7 +320,7 @@ The Kali Linux virtual machine was extracted and successfully added to Oracle Vi
 - [x] Troubleshooting completed
 - [x] GitHub repository created
 - [x] Evidence screenshots added
-- [ ] NetworkWalks Week 1 submission
+- [x] NetworkWalks Week 1 submission
 
 ## 👤 Author
 
